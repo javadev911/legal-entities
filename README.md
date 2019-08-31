@@ -108,3 +108,9 @@ Enum, Service, Resource, Exceptions and Model packages.
 ### Tests
 
 Enum, Service.
+
+## To improve/to add:
+
+1. Logging
+2. Few more test cases to write for service class and tests needs to be done for resource class.
+3. Validations for date and other values as requested
