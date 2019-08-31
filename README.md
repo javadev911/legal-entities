@@ -11,7 +11,17 @@ For building and running the application you need:
 
 ## Instruction to checkout this project
 
+1. Run below command in your machine's terminal window.
 
+```
+$ git clone https://github.com/javadev911/legal-entities.git
+```
+
+2. After checkout is completed, cd into project directory `legal-entities` and run below command:
+
+```
+$ ./mvnw clean install
+```
 
 ## Running the application locally
 
