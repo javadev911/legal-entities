@@ -27,9 +27,9 @@ $ ./mvnw clean install
 
 ## Running the application locally
 
-```shell
 cd into project directory and run below command: 
 
+```shell
 mvn spring-boot:run
 ```
 
