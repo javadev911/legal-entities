@@ -27,11 +27,22 @@ $ ./mvnw clean install
 
 ## Running the application locally
 
+Option 1:
+
 cd into project directory and run below command: 
 
 ```shell
 mvn spring-boot:run
 ```
+
+Option 2:
+
+cd into project’s target directory and run below command: 
+
+```shell
+java -jar {{jar-name}}
+```
+
 
 ## REST API
 
