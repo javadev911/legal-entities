@@ -94,9 +94,9 @@ Note: In this Put request all fields are optional except `id`. For example you c
 
 ### DELETE http://localhost:8080/legal-entities/{{id}}
 
-*Error Scenarios:*
-
 Returns `204 No Content` upon successful entity deletion. You can cross check by calling GET.
+
+*Error Scenarios:*
 
 Returns 404 with appropriate message if entity is not found for the given `id`!
 
